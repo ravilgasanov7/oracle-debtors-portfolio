@@ -7,8 +7,8 @@ This portfolio project shows an end‑to‑end **ETL pipeline in Oracle**:
 3) **Mask personal data (PII)** — client names + phone numbers  
 4) Build an analytics‑friendly table + example queries
 
-> ✅ The repository contains **ONLY anonymized data** (`data/debtors_anonymized.csv`).  
-> ❌ Do **NOT** commit the original CSV/XLSM with real names/phones.
+>  The repository contains **ONLY anonymized data** (`data/debtors_anonymized.csv`).  
+>  Do **NOT** commit the original CSV/XLSM with real names/phones.
 
 ---
 
